@@ -4,9 +4,6 @@
 <p align="center">Olá! Me chamo Clauber Adryel e sou aluno de Ciência da Computação,atualmente estou focando em Back-end com Java e mal posso esperar para compartilhar com vocês tudo o que eu aprender. Acredito que... temos que fazer o que amamos e isto.. é algo que eu amo.. programar.
   
 #
-
-<img align="right" alt="" height="190px" src="./src/study.gif">
-
 <h3 align="left">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:adryel0713@gmail.com)
