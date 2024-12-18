@@ -1,7 +1,7 @@
-## Hi there 👋
+## Sobre mim
 
 
-<p align="center">Olá! Me chamo Clauber Adryel e sou aluno de Ciência da Computação,atualmente estou focando em Back-end com Java e mal posso esperar para compartilhar com vocês tudo o que eu aprender. Acredito que... Temos que fazer o que amamos e isto.. é algo que eu amo.. programar.
+<p align="center">Olá! Me chamo Clauber Adryel e sou aluno de Ciência da Computação,atualmente estou focando em Back-end com Java e mal posso esperar para compartilhar com vocês tudo o que eu aprender. Acredito que... temos que fazer o que amamos e isto.. é algo que eu amo.. programar.
   
 #
 
