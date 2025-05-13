@@ -1,39 +1,50 @@
-## Sobre mim
+<h1 align="center">Opa, aceita um café? </h1>
+
+<p align="center">
+  Desenvolvedor Backend | Java & Spring Boot | PostgreSQL | JWT | REST APIs
+</p>
+
+---
+
+### 🚀 Sobre mim
+
+Sou um desenvolvedor backend em formação, focado em construir APIs robustas e seguras usando Java e Spring Boot. Me interesso por arquitetura de software, segurança e boas práticas de desenvolvimento. Estou sempre buscando evoluir minhas habilidades e trabalhar em projetos desafiadores.
+
+- 🌱 Atualmente estudando **Spring Security**, **JWT** e **AWS (SQS, SNS, Lambda, S3)**
+- 💻 Desenvolvendo APIs REST com **Java 17, Spring Boot, PostgreSQL**
+- 🔐 Trabalhando com autenticação e autorização usando **JWT**
+- 📚 Meus projetos são focados em **backend completo**, com conexão a banco de dados e validações
+- 📍 Macapá - AP, Brasil
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+
+---
+
+### 📂 Meus Projetos
+
+🔹 [API de Produtos com Spring Boot, PostgreSQL e JWT](https://github.com/seu-usuario/nome-do-repositorio)  
+Uma API completa com autenticação JWT, cadastro e listagem de produtos, e integração com banco de dados PostgreSQL.
 
 
-<p align="center">Olá! Me chamo Clauber Adryel e sou aluno de Ciência da Computação. Atualmente, estou focando em Back-end com Java e mal posso esperar para compartilhar com vocês tudo o que eu aprender. Acredito que devemos fazer o que amamos... Tudo o que é feito com amor é bem feito.
-  
-#
-<h3 align="left">Connect with me!</h3>
-
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:adryel0713@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/adryel0713/)
 
 
-<h3 align="left">My Stack</h3>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="25" alt="spring logo"  />
-  <img width="8" />
-</div>
+### 📫 Contato
 
-#
+- Email: adryel0713@email.com
+- LinkedIn: [https://linkedin.com/in/adryel0713](https://linkedin.com/in/adryel0713)
+- GitHub: [https://github.com/adryel0713](https://github.com/adryel0713)
 
-<div style="text-align: center;" align="center">
-  <h3> GitHub Stats </h3>
-  <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Adryel0713&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
+---
 
-  <a href="https://github.com/Adryel0713/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Adryel0713&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
-  </a>
-</div>
-
-###
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adryel0713/Adryel0713/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adryel0713/Adryel0713/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Adryel0713/Adryel0713/output/github-contribution-grid-snake.svg">
-</picture>
+🧠 *“O segredo do sucesso é a constância no propósito.”*  
