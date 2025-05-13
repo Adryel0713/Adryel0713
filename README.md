@@ -47,4 +47,4 @@ Uma API completa com autenticação JWT, cadastro e listagem de produtos, e inte
 
 ---
 
-🧠 *“O segredo do sucesso é a constância no propósito.”*  
+🧠 *“Se conheces os demais e te conheces a ti mesmo,nem em cem batalhas correrás perigo.”*  
