@@ -18,27 +18,6 @@ Sou um desenvolvedor backend em formação, focado em construir APIs robustas e 
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-
----
-
-### 📂 Meus Projetos
-
-🔹 [API de Produtos com Spring Boot, PostgreSQL e JWT](https://github.com/seu-usuario/nome-do-repositorio)  
-Uma API completa com autenticação JWT, cadastro e listagem de produtos, e integração com banco de dados PostgreSQL.
-
-
-
-
-
 ### 📫 Contato
 
 - Email: adryel0713@email.com
