@@ -1,4 +1,4 @@
-<h1 align="center">Opa, aceita um café? </h1>
+<h1 align="center">☕Opa, aceita um café? </h1>
 
 <p align="center">
   Desenvolvedor Backend | Java & Spring Boot | PostgreSQL | JWT | REST APIs
