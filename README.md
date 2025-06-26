@@ -1,29 +1,55 @@
-<h1 align="center">☕Opa, aceita um café? </h1>
+# ☕ Opa, aceita um café?
 
-<p align="center">
-  Desenvolvedor Backend | Java & Spring Boot | PostgreSQL | JWT | REST APIs
-</p>
-
----
-
-### 🚀 Sobre mim
-
-Sou um desenvolvedor backend em formação, focado em construir APIs robustas e seguras usando Java e Spring Boot. Me interesso por arquitetura de software, segurança e boas práticas de desenvolvimento. Estou sempre buscando evoluir minhas habilidades e trabalhar em projetos desafiadores.
-
-- 🌱 Atualmente estudando **Spring Security**, **JWT** e **AWS (SQS, SNS, Lambda, S3)**
-- 💻 Desenvolvendo APIs REST com **Java 17, Spring Boot, PostgreSQL**
-- 🔐 Trabalhando com autenticação e autorização usando **JWT**
-- 📚 Meus projetos são focados em **backend completo**, com conexão a banco de dados e validações
-- 📍 Macapá - AP, Brasil
+### 👨‍💻 Desenvolvedor Full Stack  
+**Java + Spring Boot • HTML • CSS • JavaScript • PostgreSQL**
 
 ---
 
-### 📫 Contato
+## 🚀 Sobre mim
 
-- Email: adryel0713@email.com
-- LinkedIn: [https://linkedin.com/in/adryel0713](https://linkedin.com/in/adryel0713)
-- GitHub: [https://github.com/adryel0713](https://github.com/adryel0713)
+Sou um desenvolvedor full stack em constante evolução, apaixonado por transformar ideias em soluções completas — do back-end robusto ao front-end funcional e moderno. Tenho foco em qualidade, segurança e boas práticas de desenvolvimento, buscando sempre escrever código limpo, reutilizável e escalável.
 
 ---
 
-🧠 *“Se conheces os demais e te conheces a ti mesmo,nem em cem batalhas correrás perigo.”*  
+## 🛠️ Tecnologias & Ferramentas
+
+- **Backend:** Java 17, Spring Boot, Spring Security, JWT, APIs REST  
+- **Frontend:** HTML5, CSS3, JavaScript (vanilla), responsividade e boas práticas de UI  
+- **Banco de Dados:** PostgreSQL  
+- **Outros:** Maven, JPA, Hibernate, Postman
+
+---
+
+## 🌱 Atualmente estudando
+
+- Integração contínua com Spring Security e JWT  
+- Deploy de aplicações full stack  
+- Serviços na nuvem com AWS
+
+---
+
+## 💻 Meus projetos
+
+- APIs REST seguras e conectadas ao banco de dados  
+- Interfaces responsivas integradas ao backend  
+- Validações, autenticação, controle de acesso e CRUD completo
+
+---
+
+## 📍 Localização
+
+**Macapá - AP, Brasil**
+
+---
+
+## 📫 Contato
+
+- 📧 Email: [adryel0713@email.com](mailto:adryel0713@email.com)  
+- 🔗 LinkedIn: [linkedin.com/in/adryel0713](https://linkedin.com/in/adryel0713)  
+- 🐱 Portfolio: [https://adryel0713.netlify.app/](https://adryel0713.netlify.app/)
+
+---
+
+## 🧠 Citação favorita
+
+> “Se conheces os demais e te conheces a ti mesmo, nem em cem batalhas correrás perigo.”
